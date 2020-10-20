@@ -1,0 +1,14 @@
+{
+  "name": "osm-TREE-mapper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.1"
+  }
+}
